@@ -1,0 +1,3 @@
+open .
+open hello_world.rb
+echo "Hi world"
